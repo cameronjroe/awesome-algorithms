@@ -17,48 +17,48 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
 
 *Websites you should use to learn classic algorithms*
 
-* [Wikipedia - Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) - Of course!!
-* [Wikipedia - Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) - and why not ?!!
-* [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) -
+* [ ] [Wikipedia - Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) - Of course!!
+* [ ] [Wikipedia - Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) - and why not ?!!
+* [ ] [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) -
     Lots and lots of well explained and implemented algorithms.
-* [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
-* [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
-* [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
-* [stoimen's web log](http://www.stoimen.com/blog/) - Some algorithms nicely explained.
-* [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html) - Visualising data structures and algorithms through animation.
-* [Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms.
-* [Algorithmist](http://www.algorithmist.com/index.php/Main_Page) - The Algorithmist is a resource dedicated to anything algorithms - from the practical realm, to the theoretical realm. There are also links and explanation to problemsets.
-* [Learn Algorithms](http://www.learnalgorithms.in/) - A website that explains some algorithms very well and simply, even for the most novice of programmers. 
+* [ ] [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
+* [ ] [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
+* [ ] [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
+* [ ] [stoimen's web log](http://www.stoimen.com/blog/) - Some algorithms nicely explained.
+* [ ] [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html) - Visualising data structures and algorithms through animation.
+* [ ] [Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms.
+* [ ] [Algorithmist](http://www.algorithmist.com/index.php/Main_Page) - The Algorithmist is a resource dedicated to anything algorithms - from the practical realm, to the theoretical realm. There are also links and explanation to problemsets.
+* [ ] [Learn Algorithms](http://www.learnalgorithms.in/) - A website that explains some algorithms very well and simply, even for the most novice of programmers. 
 
 ## Online Courses
 
 *Free and High Quality Courses Online*
 
-* [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) -
+* [ ] [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) -
     An easy and well explained introduction to algorithms.
-* [MIT - 6-006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) -
+* [ ] [MIT - 6-006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) -
     Well explained algorithms.
-* [MIT - 6-046j](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) -
+* [ ] [MIT - 6-046j](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) -
     Similar to the previous one, but with different algorithms.
-* [YogiBearian YouTube Channel](https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) - Lots of well explained vidoes on various computer science subjects.
-* [Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo) - Course mainly based on the book "Introduction to Algorithm".
-* [Algorithms: Design and Analysis, Part 2](https://www.coursera.org/course/algo2) - Second part, focusing on Greedy and Dynamic paradigms, and NP-Complete problems.
-* [Udacity Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) - Python-based Algorithms course.
-* [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Algorithm course ministred by Tomas Cormen and Devin Balkcom. 
+* [ ] [YogiBearian YouTube Channel](https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) - Lots of well explained vidoes on various computer science subjects.
+* [ ] [Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo) - Course mainly based on the book "Introduction to Algorithm".
+* [ ] [Algorithms: Design and Analysis, Part 2](https://www.coursera.org/course/algo2) - Second part, focusing on Greedy and Dynamic paradigms, and NP-Complete problems.
+* [ ] [Udacity Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) - Python-based Algorithms course.
+* [ ] [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Algorithm course ministred by Tomas Cormen and Devin Balkcom. 
 
 ## Books
 
 *The most highly regarded books to learn algorithms*
 
-* [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
-* [The Algorithm Design Manual](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) - Easy to read and full of real world examples.
-* [Algorithm Design](http://www.aw-bc.com/info/kleinberg/) - Pretty straight-forward.
-* [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
-* [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
-* [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
-* [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
-* [Swift Algorithms & Data Structures](http://shop.waynewbishop.com/) - A practical guide to concepts, theory and code.
-* [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
+* [ ] [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
+* [ ] [The Algorithm Design Manual](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) - Easy to read and full of real world examples.
+* [ ] [Algorithm Design](http://www.aw-bc.com/info/kleinberg/) - Pretty straight-forward.
+* [ ] [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
+* [ ] [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
+* [ ] [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
+* [ ] [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
+* [ ] [Swift Algorithms & Data Structures](http://shop.waynewbishop.com/) - A practical guide to concepts, theory and code.
+* [ ] [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
 
 ## Github Libraries
 
